@@ -124,3 +124,4 @@ with open('job_list.csv', 'w', newline='') as csvfile:
                          'apply_url': jl.apply_url,
                          'job_description': jl.job_description
                          }) 
+
